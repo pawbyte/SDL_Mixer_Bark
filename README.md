@@ -3,7 +3,7 @@
 ![](https://github.com/pawbyte/SDL_Mixer_Bark/blob/main/sdl_mixer_bark_logo_transparent.png)
 # A little collection of features to enhance the SDL_Mixer experience
 
-## Simple include SDL_Mixer.h and SDL.h plus SDL_Mixer_Bark.hpp and enjoy these addons:
+## Simply include SDL_Mixer.h and SDL.h plus SDL_Mixer_Bark.hpp and enjoy these addons:
 
 bool Mix_Bark_Initted(); // check if mix_bark is innited, seperate from checking if sdl_mixer itself is iniited
 bool Mix_ClearShorts();
