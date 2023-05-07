@@ -49,3 +49,13 @@ Mix_Chunk * Mix_SplitChunk( Mix_Chunk * chunk, float position, float duration  )
 
 bool Mix_QuitBark(); // Quits Mix_Bark and SDL_Mixer
 
+Donate to make SDL_Mixer_Bark greater
+=========================================
+Work on this library is not possible without funding. The amount of time it takes to update the codebases, create examples, tutorials and more is quite expensive. Please consider either a one-time or monthly donation to keep this engine going and more frequently updated. 
+
+We have a [Patreon Page](https://www.patreon.com/pawbyte?ty=h) that you can help fund future developments of Pencil Engine and to help us kickstart new projects!
+
+There is also a [PayPal](http://www.pawbyte.com/donate/) one time donation method as well. 
+
+I appreciate your generousity and moving this project forward. 
+
