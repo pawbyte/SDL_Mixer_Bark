@@ -18,6 +18,7 @@ float Mix_GetChunkVolumeAt_Safe(Mix_Chunk * chunk, int position);
 Uint16 Mix_GetFormatSampleSize(Uint16 format);
 
 //Inits SDL_Mixer with the given flags as well as SDL_Mixer_Bark with the given chunk_size
+
 int Mix_InitBark(int flags, int chunk_size );
 
 int Mix_PlayChunkClipped( Mix_Chunk * chunk, float position, float duration, int preferred_channel, bool halt_channel);
