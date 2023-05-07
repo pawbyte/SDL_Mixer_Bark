@@ -12,7 +12,9 @@ int Mix_GetAudioFrequency();
 float Mix_GetChunk_Duration_MS( Mix_Chunk * chunk);
 int Mix_GetChunkSampleCount(Mix_Chunk * chunk);
 float Mix_GetChunkVolumeAt(Mix_Chunk * chunk, int position);
+
 float Mix_GetChunkVolumeAt_Safe(Mix_Chunk * chunk, int position);
+
 Uint16 Mix_GetFormatSampleSize(Uint16 format);
 
 //Inits SDL_Mixer with the given flags as well as SDL_Mixer_Bark with the given chunk_size
